@@ -10,6 +10,7 @@ echo "Calcule la potencia de 2 numeros X";
 echo "<br>";
 echo "Potencia de Ambos Numeros";
 echo "<br>";
+echo "<br>";
 
 
 
