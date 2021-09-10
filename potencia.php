@@ -31,6 +31,7 @@ for ($j=1; $j<=$exp ; $j++)
 	 
 	echo "las potencias de {$N1} a la {$i} potencia son ".$potenciaN1[$i];
 	echo "<br>";
+	Echo 'Y la mayor potencia es: '. Max($potenciaN1);
  }
  echo "<br>";
 
@@ -39,6 +40,7 @@ for ($j=1; $j<=$exp ; $j++)
 	 
 	echo "las potencias de {$N2} a la {$j} potencia son ".$potenciaN2[$j];
 	echo "<br>";
+	Echo 'Y la mayor potencia es: '. Max($potenciaN2);
  }
 
 
